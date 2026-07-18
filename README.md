@@ -1,5 +1,4 @@
 # 💫 About Me:
-## 👋 About Me<br><br>
 Hey! I'm **Charan Annamalai A**, a **2nd year Cybersecurity student** who enjoys exploring how systems work — and how they break 👀💻<br><br>
 I’m passionate about **cybersecurity**, love building **frontend apps with Next.js & React**, and I’m learning the **backend side** step by step. I enjoy coding, learning new technologies, and building projects that push me to think deeper.<br><br>
 ⚡ Fun fact: I break things (ethically) just to understand how to fix them 😄<br>
