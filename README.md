@@ -1,7 +1,5 @@
 # About Me:
-Hey! I'm **Charan Annamalai A**, a **2nd year Cybersecurity student** who enjoys exploring how systems work — and how they break 👀💻<br><br>
-I’m passionate about **cybersecurity**, love building **frontend apps with Next.js & React**, and I’m learning the **backend side** step by step. I enjoy coding, learning new technologies, and building projects that push me to think deeper.<br><br>
-Fun fact: I break things (ethically) just to understand how to fix them 😄<br>
+hello!!
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/charan2_00_6_14104) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/charan_2_00_6_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CharanAnnamalai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charanannamalai45@gmail.com) 
